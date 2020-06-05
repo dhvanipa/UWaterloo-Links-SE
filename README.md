@@ -1,6 +1,36 @@
 # UWaterloo Links - Software Engineering
 A list of links which I've found useful during my time at UWaterloo studying Software Engineering.
 
+## Table of Contents
+- [Software Engineering Program](#software-engineering-program)
+    -  [Courtesy of Upper Years](#courtesy-of-upper-years)
+- [General UWaterloo](#general-uwaterloo)
+- [Co-op](#co-op)
+- [Student Perks](#student-perks)
+- [Tools](#tools)
+    - [Courses](#courses)
+    - [Extensions](#extensions)
+    - [Latex](#latex)
+- [Writing](#writing)
+- [1A](#1a)
+    - [CS 137](#cs-137---programming-principles)
+    - [ECE 105](#ece-105---classical-mechanics)
+    - [MATH 115](#math-115---linear-algebra-for-engineering)
+    - [MATH 117](#math-117---calculus-1-for-engineering)
+    - [MATH 135](#math-135---algebra-for-honours-mathematics)
+- [1B](#1b)
+    - [CS 138](#cs-138---introduction-to-data-abstraction-and-implementation)
+    - [MATH 119](#math-119---calculus-2-for-engineering)
+    - [ECE 106](#ece-106---electricity-and-magnetism)
+    - [ECE 124](#ece-124---digital-circuits-and-systems)
+    - [ECE 140](#ece-140---linear-circuits)
+- [2A](#2a)
+    - [CS 241](#cs-241---foundations-of-sequential-programs)
+    - [ECE 222](#ece-222---digital-computers)
+    - [SE 212](#se-212---logic-and-computation)
+    - [STAT 206](#stat-206----statistics-for-software-engineering)
+
+
 ## Software Engineering Program
 - https://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/other-useful-links
@@ -134,7 +164,6 @@ SE vs CS
 
 ### CS 241 - Foundations of Sequential Programs
 - https://github.com/compiler-explorer/compiler-explorer
-
 
 ### ECE 222 - Digital Computers
 - http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0204j/Cihcdbca.html
