@@ -19,10 +19,13 @@ SE vs CS
 - https://uwaterloo.ca/math-faculty-computing-facility/services/service-catalogue-teaching-linux/general-use-gpu-server
 - https://uwaterloo.ca/math-faculty-computing-facility/services/jupyter-notebook-server
 - https://englab.uwaterloo.ca/
+- https://uwaterloo.ca/information-systems-technology/services/file-sharing/sendit
 - https://uwaterloo.ca/office-365/
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn2018.html
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn.html
+- https://uwaterloo.ca/library/services/printing-your-laptop
 - https://uwaterloo.ca/registrar/important-dates/calendar
+- https://uwaterloo.ca/map/
 - https://lib.uwaterloo.ca/web/index.php
 - http://reddit.com/r/uwaterloo
 
