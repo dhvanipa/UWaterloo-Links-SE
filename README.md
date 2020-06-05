@@ -164,6 +164,8 @@ SE vs CS
 
 ### CS 241 - Foundations of Sequential Programs
 - https://github.com/compiler-explorer/compiler-explorer
+- https://www.debuggex.com/
+- https://onlinestringtools.com/generate-string-from-regex
 
 ### ECE 222 - Digital Computers
 - http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0204j/Cihcdbca.html
