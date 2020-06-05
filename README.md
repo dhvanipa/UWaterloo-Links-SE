@@ -20,10 +20,11 @@ SE vs CS
 - https://uwaterloo.ca/math-faculty-computing-facility/services/jupyter-notebook-server
 - https://englab.uwaterloo.ca/
 - https://uwaterloo.ca/office-365/
-- https://lib.uwaterloo.ca/web/index.php
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn2018.html
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn.html
 - https://uwaterloo.ca/registrar/important-dates/calendar
+- https://lib.uwaterloo.ca/web/index.php
+- http://reddit.com/r/uwaterloo
 
 ## Co-op
 - https://uwaterloo.ca/co-operative-education/about-co-op/employment-statistics
