@@ -107,6 +107,7 @@ SE vs CS
 - https://www.geogebra.org/3d?lang=en
 
 ### ECE 106 - Electricity and Magnetism
+- http://web.mit.edu/viz/EM/visualizations/coursenotes/modules/guide05.pdf
 - http://www.ilectureonline.com/lectures/subject/PHYSICS/5
 - https://www.youtube.com/user/lasseviren1/playlists
 
@@ -119,6 +120,7 @@ SE vs CS
 
 ### ECE 140 - Linear Circuits
 - https://www.falstad.com/circuit/
+- https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/
 
 ## 2A
 
