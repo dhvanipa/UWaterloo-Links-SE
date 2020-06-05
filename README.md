@@ -42,7 +42,6 @@ SE vs CS
 - http://www.adm.uwaterloo.ca/infocour/CIR/SA/under.html
 - https://uwflow.com/
 
-
 ### Extensions
 - https://uwaterloo.xyz/
     - https://schedule.uwaterloo.xyz/
@@ -54,12 +53,12 @@ SE vs CS
     - https://chrome.google.com/webstore/detail/waterloo-autolog/ncpmlgiinkikhgijoplpnjggobinhkpl
 - https://www.whatsmygpa.ca/
 
-
 ### Latex
 - https://www.texstudio.org/
 - https://www.overleaf.com/learn/latex/Tutorials
 
-
+## Writing
+- https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx
 
 ## 1A
 
