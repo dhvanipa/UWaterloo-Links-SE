@@ -47,6 +47,7 @@ SE vs CS
 - https://uwflow.com/
 - https://www.engsoc.uwaterloo.ca/resources/exam-bank/
 - https://mathsoc.uwaterloo.ca/university/exambank
+- https://wusa.ca/services/feds-used-books
 
 ### Extensions
 - https://uwaterloo.xyz/
