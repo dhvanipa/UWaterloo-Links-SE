@@ -19,6 +19,7 @@ SE vs CS
 - https://uwaterloo.ca/math-faculty-computing-facility/services/service-catalogue-teaching-linux/general-use-gpu-server
 - https://uwaterloo.ca/math-faculty-computing-facility/services/jupyter-notebook-server
 - https://englab.uwaterloo.ca/
+- https://uwaterloo.ca/office-365/
 - https://lib.uwaterloo.ca/web/index.php
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn2018.html
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn.html
@@ -30,6 +31,10 @@ SE vs CS
 - http://www.gowrikumar.com/interview/index.php
 - https://github.com/viraptor/reverse-interview
 - https://uwaterloo.ca/co-operative-education/important-dates
+
+## Student Perks
+- https://education.github.com/pack
+- https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011
 
 ## Tools
 
