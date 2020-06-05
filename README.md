@@ -42,6 +42,7 @@ SE vs CS
 
 ### Courses
 - http://www.adm.uwaterloo.ca/infocour/CIR/SA/under.html
+- http://uwcourse.atomala.com/
 - https://uwflow.com/
 - https://www.engsoc.uwaterloo.ca/resources/exam-bank/
 - https://mathsoc.uwaterloo.ca/university/exambank
@@ -77,6 +78,7 @@ SE vs CS
 - https://www.edumedia-sciences.com/en/media/647-cylindrical-coordinates
 - https://www.edumedia-sciences.com/en/media/269-spherical-coordinates
 - http://www.ilectureonline.com/lectures/subject/PHYSICS/1
+- http://web.mst.edu/~gbert/JAVA/uncertainty.HTML#operation
 
 ### MATH 115 - Linear Algebra for Engineering
 - https://matrixcalc.org/en/
@@ -85,6 +87,7 @@ SE vs CS
 - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 ### MATH 117 - Calculus 1 for Engineering
+- http://wabbitemu.org/
 - https://www.symbolab.com/
 - https://www.desmos.com/calculator
 - https://www.wolframalpha.com/
