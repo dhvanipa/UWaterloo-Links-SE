@@ -23,6 +23,7 @@ SE vs CS
 - https://lib.uwaterloo.ca/web/index.php
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn2018.html
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn.html
+- https://uwaterloo.ca/registrar/important-dates/calendar
 
 ## Co-op
 - https://uwaterloo.ca/co-operative-education/about-co-op/employment-statistics
@@ -30,6 +31,7 @@ SE vs CS
 - https://leetcode.com/
 - http://www.gowrikumar.com/interview/index.php
 - https://github.com/viraptor/reverse-interview
+- https://uwaterloo.ca/software-engineering/current-undergraduate-students/policies-procedures-guidelines/work-term-report-guidelines
 - https://uwaterloo.ca/co-operative-education/important-dates
 
 ## Student Perks
