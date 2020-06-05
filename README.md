@@ -43,6 +43,8 @@ SE vs CS
 ### Courses
 - http://www.adm.uwaterloo.ca/infocour/CIR/SA/under.html
 - https://uwflow.com/
+- https://www.engsoc.uwaterloo.ca/resources/exam-bank/
+- https://mathsoc.uwaterloo.ca/university/exambank
 
 ### Extensions
 - https://uwaterloo.xyz/
