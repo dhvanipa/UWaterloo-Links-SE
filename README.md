@@ -45,6 +45,9 @@ Advice to our cohort
 SE vs CS
 - https://docs.google.com/document/d/1y1FvwCNqaUGTm74dMMqegnWqJMDpVZZZcNVLsZS4hoM/edit?usp=sharing
 
+SE Resume Tips
+- https://docs.google.com/document/d/1z1ykZitNA3mRGtZhqm0e_KefysPDeY3jg0_RzhUkmXg/edit?usp=sharing
+
 ## General UWaterloo
 - https://uwaterloo.ca/math-faculty-computing-facility/services/service-catalogue-teaching-linux/general-use-gpu-server
 - https://uwaterloo.ca/math-faculty-computing-facility/services/jupyter-notebook-server
