@@ -10,7 +10,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 - [Online Learning](#online-learning)
 - [Tools](#tools)
     - [Courses](#courses)
-    - [Extensions](#extensions)
+    - [UWaterloo Related](#uwaterloo-related)
     - [Latex](#latex)
 - [Writing](#writing)
 - [1A](#1a)
