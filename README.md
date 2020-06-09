@@ -7,6 +7,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 - [General UWaterloo](#general-uwaterloo)
 - [Co-op](#co-op)
 - [Student Perks](#student-perks)
+- [Online Learning](#online-learning)
 - [Tools](#tools)
     - [Courses](#courses)
     - [Extensions](#extensions)
