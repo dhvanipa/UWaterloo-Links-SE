@@ -75,6 +75,10 @@ SE Resume Tips
 - https://education.github.com/pack
 - https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011
 
+## Online Learning
+- https://otter.ai/
+- https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
+
 ## Tools
 
 ### Courses
@@ -84,8 +88,9 @@ SE Resume Tips
 - https://www.engsoc.uwaterloo.ca/resources/exam-bank/
 - https://mathsoc.uwaterloo.ca/university/exambank
 - https://wusa.ca/services/feds-used-books
+- https://www.whatsmygpa.ca/
 
-### Extensions
+### UWaterloo Related
 - https://uwaterloo.xyz/
     - https://schedule.uwaterloo.xyz/
 - https://play.google.com/store/apps/details?id=com.lucky.watisrain&hl=en_CA
@@ -94,7 +99,6 @@ SE Resume Tips
     - https://chrome.google.com/webstore/detail/learn-darklight/lhodieepeghcemhpbloffmljoklaklho
     - https://chrome.google.com/webstore/detail/quest-raspberry/ifhnmgllkaeebiklhakndljclagikoak
     - https://chrome.google.com/webstore/detail/waterloo-autolog/ncpmlgiinkikhgijoplpnjggobinhkpl
-- https://www.whatsmygpa.ca/
 
 ### Latex
 - https://www.texstudio.org/
