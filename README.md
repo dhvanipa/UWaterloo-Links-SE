@@ -187,3 +187,16 @@ SE Resume Tips
 - https://www.youtube.com/user/joshstarmer/playlists
 - https://www.youtube.com/user/jbstatistics/playlists
 - https://www.socscistatistics.com/tests/
+
+## 2B
+
+### CS 370 - Numerical Computation
+- https://baseconvert.com/
+
+### MATH 239 - Introduction to Combinatorics
+- https://www.easycalculation.com/algebra/power-set.php
+- https://www.dcode.fr/combinations
+- https://bakkot.github.io/dfa-lib/regeq.html
+
+### CS 348 - Introduction to Database Management
+- https://dbis-uibk.github.io/relax/calc.htm
