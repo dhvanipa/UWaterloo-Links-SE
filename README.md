@@ -55,6 +55,7 @@ SE Resume Tips
 - https://englab.uwaterloo.ca/
 - https://uwaterloo.ca/information-systems-technology/services/file-sharing/sendit
 - https://uwaterloo.ca/office-365/
+- https://wiki.uwaterloo.ca/display/ISTKB
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn2018.html
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn.html
 - https://uwaterloo.ca/library/services/printing-your-laptop
