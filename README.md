@@ -37,9 +37,12 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/other-useful-links
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/class-homepages
 - https://uwaterloo.ca/software-engineering/advanced-technical-electives
-- https://classprofile.andyzhang.net/
 
 ### Courtesy of Upper Years
+Class Profiles
+- https://uw-se-2020-class-profile.github.io/profile.pdf
+- https://classprofile.andyzhang.net/
+
 Advice to our cohort
 - https://docs.google.com/document/d/1pXaFqLUdadLTRvu5aL4c_JhSrdynG_ZWfx7gXwTTsv4/edit?usp=sharing
 
