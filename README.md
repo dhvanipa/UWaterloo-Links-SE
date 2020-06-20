@@ -76,6 +76,7 @@ SE Resume Tips
 - https://github.com/viraptor/reverse-interview
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/policies-procedures-guidelines/work-term-report-guidelines
 - https://uwaterloo.ca/co-operative-education/important-dates
+- https://contrary.substack.com/p/helpful-co-op-and-internship-resources
 
 ## Student Perks
 - https://education.github.com/pack
