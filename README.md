@@ -204,6 +204,8 @@ SE Resume Tips
 - https://www.easycalculation.com/algebra/power-set.php
 - https://www.dcode.fr/combinations
 - https://bakkot.github.io/dfa-lib/regeq.html
+- https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Graph-Creator/
+- https://csacademy.com/app/graph_editor/
 
 ### CS 348 - Introduction to Database Management
 - https://dbis-uibk.github.io/relax/calc.htm
