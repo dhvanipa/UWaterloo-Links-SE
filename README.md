@@ -210,6 +210,7 @@ SE Resume Tips
 ### CS 348 - Introduction to Database Management
 - https://dbis-uibk.github.io/relax/calc.htm
 - https://app.diagrams.net/
+- http://sqlfiddle.com/
 
 ### CS 240 - Data Structures and Data Management
 - https://oeis.org/
