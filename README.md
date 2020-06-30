@@ -213,4 +213,5 @@ SE Resume Tips
 - http://sqlfiddle.com/
 
 ### CS 240 - Data Structures and Data Management
+- https://visualgo.net/en/heap
 - https://oeis.org/
