@@ -84,8 +84,9 @@ SE Resume Tips
 - https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011
 
 ## Online Learning
-- https://otter.ai/
+- https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
 - https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
+- https://otter.ai/
 
 ## Tools
 
