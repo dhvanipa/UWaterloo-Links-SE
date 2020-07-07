@@ -217,3 +217,4 @@ SE Resume Tips
 ### CS 240 - Data Structures and Data Management
 - https://visualgo.net/en/heap
 - https://oeis.org/
+- https://people.ok.ubc.ca/ylucet/DS/SkipList.html
