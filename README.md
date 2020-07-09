@@ -213,6 +213,7 @@ SE Resume Tips
 - https://dbis-uibk.github.io/relax/calc.htm
 - https://app.diagrams.net/
 - http://sqlfiddle.com/
+- https://www.youtube.com/user/techtud
 
 ### CS 240 - Data Structures and Data Management
 - https://visualgo.net/en/heap
