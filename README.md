@@ -214,6 +214,7 @@ SE Resume Tips
 - https://app.diagrams.net/
 - http://sqlfiddle.com/
 - https://www.youtube.com/user/techtud
+- http://www.ict.griffith.edu.au/~jw/normalization/ind.php
 
 ### CS 240 - Data Structures and Data Management
 - https://visualgo.net/en/heap
