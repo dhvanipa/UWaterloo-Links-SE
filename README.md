@@ -218,6 +218,7 @@ SE Resume Tips
 - https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
 
 ### CS 240 - Data Structures and Data Management
+- https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
 - https://visualgo.net/en/heap
 - https://oeis.org/
 - https://people.ok.ubc.ca/ylucet/DS/SkipList.html
