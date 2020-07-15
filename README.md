@@ -221,3 +221,5 @@ SE Resume Tips
 - https://visualgo.net/en/heap
 - https://oeis.org/
 - https://people.ok.ubc.ca/ylucet/DS/SkipList.html
+- https://people.ok.ubc.ca/ylucet/DS/Trie.html
+- https://people.ok.ubc.ca/ylucet/DS/CompressedTrie.html
