@@ -224,3 +224,6 @@ SE Resume Tips
 - https://people.ok.ubc.ca/ylucet/DS/SkipList.html
 - https://people.ok.ubc.ca/ylucet/DS/Trie.html
 - https://people.ok.ubc.ca/ylucet/DS/CompressedTrie.html
+- https://visualgo.net/en/hashtable
+- http://www.lkozma.net/cuckoo_hashing_visualization/
+- https://miniwebtool.com/modulo-calculator/
