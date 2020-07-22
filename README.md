@@ -216,6 +216,7 @@ SE Resume Tips
 - https://www.youtube.com/user/techtud
 - http://www.ict.griffith.edu.au/~jw/normalization/ind.php
 - https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
+- http://www.cs.uleth.ca/~rice/latex/worksheet.pdf
 
 ### CS 240 - Data Structures and Data Management
 - https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
