@@ -200,6 +200,7 @@ SE Resume Tips
 
 ### CS 370 - Numerical Computation
 - https://baseconvert.com/
+- https://scistatcalc.blogspot.com/2013/12/fft-calculator.html
 
 ### MATH 239 - Introduction to Combinatorics
 - https://www.easycalculation.com/algebra/power-set.php
