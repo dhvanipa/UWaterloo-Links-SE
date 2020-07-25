@@ -4,7 +4,9 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 ## Table of Contents
 - [Software Engineering Program](#software-engineering-program)
     -  [Courtesy of Upper Years](#courtesy-of-upper-years)
+- [High School to University](#high-school-to-university)
 - [General UWaterloo](#general-uwaterloo)
+- [Places at UWaterloo](#places-at-uwaterloo)
 - [Co-op](#co-op)
 - [Student Perks](#student-perks)
 - [Online Learning](#online-learning)
