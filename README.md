@@ -53,9 +53,11 @@ SE vs CS
 SE Resume Tips
 - https://docs.google.com/document/d/1z1ykZitNA3mRGtZhqm0e_KefysPDeY3jg0_RzhUkmXg/edit?usp=sharing
 
-## General UWaterloo
+## High School to University
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn2018.html
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn.html
+
+## General UWaterloo
 - https://uwaterloo.ca/math-faculty-computing-facility/services/service-catalogue-teaching-linux/general-use-gpu-server
 - https://uwaterloo.ca/math-faculty-computing-facility/services/jupyter-notebook-server
 - https://englab.uwaterloo.ca/
@@ -68,6 +70,11 @@ SE Resume Tips
 - https://uwaterloo.ca/map/
 - https://lib.uwaterloo.ca/web/index.php
 - http://reddit.com/r/uwaterloo
+
+## Places at UWaterloo
+- https://uwaterloo.ca/problem-lab/
+    - https://uwaterloo.ca/problem-lab/students/our-methods
+- https://concept.uwaterloo.ca/
 
 ## Co-op
 - https://uwaterloo.ca/co-operative-education/about-co-op/employment-statistics
