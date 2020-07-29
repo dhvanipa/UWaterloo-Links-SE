@@ -218,6 +218,8 @@ SE Resume Tips
 - https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Graph-Creator/
 - https://csacademy.com/app/graph_editor/
 - https://graphonline.ru/en/
+- https://networkx.github.io/documentation/stable/tutorial.html
+    - https://networkx.github.io/documentation/stable/reference/algorithms/generated/networkx.algorithms.planarity.check_planarity.html
 
 ### CS 348 - Introduction to Database Management
 - https://dbis-uibk.github.io/relax/calc.htm
