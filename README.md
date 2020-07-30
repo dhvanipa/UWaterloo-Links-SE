@@ -232,11 +232,20 @@ SE Resume Tips
 
 ### CS 240 - Data Structures and Data Management
 - https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 - https://visualgo.net/en/heap
-- https://oeis.org/
-- https://people.ok.ubc.ca/ylucet/DS/SkipList.html
-- https://people.ok.ubc.ca/ylucet/DS/Trie.html
-- https://people.ok.ubc.ca/ylucet/DS/CompressedTrie.html
+- https://people.ok.ubc.ca/ylucet/DS/Algorithms.html
+    - https://people.ok.ubc.ca/ylucet/DS/SkipList.html
+    - https://people.ok.ubc.ca/ylucet/DS/Trie.html
+    - https://people.ok.ubc.ca/ylucet/DS/CompressedTrie.html
+    - https://people.ok.ubc.ca/ylucet/DS/BoyerMoore.html
+    - https://people.ok.ubc.ca/ylucet/DS/KnuthMorrisPratt.html
+    - https://people.ok.ubc.ca/ylucet/DS/Huffman.html
 - https://visualgo.net/en/hashtable
 - http://www.lkozma.net/cuckoo_hashing_visualization/
 - https://miniwebtool.com/modulo-calculator/
+- https://www.dcode.fr/huffman-tree-compression
+- https://www.dcode.fr/rle-compression
+- https://www.dcode.fr/burrows-wheeler-transform
+- https://www.dcode.fr/lzw-compression
+- https://oeis.org/
