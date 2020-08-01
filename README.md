@@ -249,3 +249,8 @@ SE Resume Tips
 - https://www.dcode.fr/burrows-wheeler-transform
 - https://www.dcode.fr/lzw-compression
 - https://oeis.org/
+
+### CS 247 - Software Engineering Principles
+- https://google.github.io/styleguide/cppguide.html
+- https://en.cppreference.com/w/
+- http://www.cplusplus.com/
