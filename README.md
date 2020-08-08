@@ -210,6 +210,8 @@ SE Resume Tips
 ### CS 370 - Numerical Computation
 - https://baseconvert.com/
 - https://scistatcalc.blogspot.com/2013/12/fft-calculator.html
+- https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+- https://www.youtube.com/playlist?list=PL7HEDXv3wHPNCKVActVkD-OL1C7deqHGC
 
 ### MATH 239 - Introduction to Combinatorics
 - https://www.easycalculation.com/algebra/power-set.php
