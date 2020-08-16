@@ -77,6 +77,7 @@ SE Resume Tips
 - https://uwaterloo.ca/registrar/important-dates/calendar
 - https://uwaterloo.ca/map/
 - https://lib.uwaterloo.ca/web/index.php
+    - https://lib.uwaterloo.ca/web/research-databases/browse?&a=all
 - http://reddit.com/r/uwaterloo
 
 ## Places at UWaterloo
