@@ -32,6 +32,12 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
     - [ECE 222](#ece-222---digital-computers)
     - [SE 212](#se-212---logic-and-computation)
     - [STAT 206](#stat-206----statistics-for-software-engineering)
+- [2B](#2b)
+    - [CS 370](#cs-370---numerical-computation)
+    - [MATH 239](#math-239---introduction-to-combinatorics)
+    - [CS 348](#cs-348---introduction-to-database-management)
+    - [CS 240](#cs-240---data-structures-and-data-management)
+    - [CS 247](#cs-247---software-engineering-principles)
 
 
 ## Software Engineering Program
