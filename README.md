@@ -187,10 +187,10 @@ SE Resume Tips
 - http://www.ilectureonline.com/lectures/subject/PHYSICS/5
 - https://www.youtube.com/user/lasseviren1/playlists
 
-### ECE 124 - Digital Circuits and Systemshttps://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm
+### ECE 124 - Digital Circuits and Systems
 - https://web.stanford.edu/class/cs103/tools/truth-table-tool/
 - http://electronics-course.com/boolean-algebra
-- https://www.dcode.fr/boolean-expressions-calculatorhttps://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm
+- https://www.dcode.fr/boolean-expressions-calculator
 - https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm
 - https://www.youtube.com/watch?v=tFQz2KToVkU&list=PL21KuaIMCPGoiDogGSxbBtnkmBMM_-6o3
 
