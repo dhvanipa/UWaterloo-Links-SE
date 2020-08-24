@@ -142,6 +142,9 @@ SE Resume Tips
 - https://cs.uwaterloo.ca/~cbruni/CS137Resources/index.php
 
 ### ECE 105 - Classical Mechanics
+- [MIT 8.01 Course Notes](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005/lecture-notes/)
+- [MIT 8.01 Problems](http://web.mit.edu/8.01x/Fall01/psets/main.html)
+- [String Conservation Tricks](https://www.youtube.com/watch?v=PP5gTyaS9Z4&t=146s)
 - https://www.edumedia-sciences.com/en/media/647-cylindrical-coordinates
 - https://www.edumedia-sciences.com/en/media/269-spherical-coordinates
 - http://www.ilectureonline.com/lectures/subject/PHYSICS/1
@@ -161,6 +164,8 @@ SE Resume Tips
 - https://www.youtube.com/user/patrickJMT
 
 ### MATH 135 - Algebra for Honours Mathematics
+- [UC Berkeley: Intro to Proofs](https://math.berkeley.edu/~hutching/teach/proofs.pdf)
+- [Anthony Zhang's 135 Notes](https://anthony-zhang.me/University-Notes/MATH135/MATH135.html)
 - https://www.mtholyoke.edu/courses/quenell/s2003/ma139/js/powermod.html
 - https://www.mathportal.org/calculators/polynomials-solvers/polynomial-roots-calculator.php
 - https://www.dcode.fr/modular-exponentiation
@@ -177,7 +182,8 @@ SE Resume Tips
 - https://www.geogebra.org/3d?lang=en
 
 ### ECE 106 - Electricity and Magnetism
-- http://web.mit.edu/viz/EM/visualizations/coursenotes/modules/guide05.pdf
+- [MIT 8.02 Course Notes](http://web.mit.edu/viz/EM/visualizations/coursenotes/)
+- [Firas Mansour's Lectures](https://www.youtube.com/user/grreenflag/videos)
 - http://www.ilectureonline.com/lectures/subject/PHYSICS/5
 - https://www.youtube.com/user/lasseviren1/playlists
 
