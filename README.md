@@ -52,9 +52,6 @@ Class Profiles
 - https://uw-se-2020-class-profile.github.io/profile.pdf
 - https://classprofile.andyzhang.net/
 
-Advice to our cohort
-- https://docs.google.com/document/d/1pXaFqLUdadLTRvu5aL4c_JhSrdynG_ZWfx7gXwTTsv4/edit?usp=sharing
-
 SE vs CS
 - https://docs.google.com/document/d/1y1FvwCNqaUGTm74dMMqegnWqJMDpVZZZcNVLsZS4hoM/edit?usp=sharing
 
