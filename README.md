@@ -8,6 +8,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 - [General UWaterloo](#general-uwaterloo)
 - [Places at UWaterloo](#places-at-uwaterloo)
 - [Co-op](#co-op)
+- [Entrepreneurship](#entrepreneurship)
 - [Student Perks](#student-perks)
 - [Online Learning](#online-learning)
 - [Tools](#tools)
@@ -91,6 +92,9 @@ SE Resume Tips
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/policies-procedures-guidelines/work-term-report-guidelines
 - https://uwaterloo.ca/co-operative-education/important-dates
 - https://contrary.substack.com/p/helpful-co-op-and-internship-resources
+
+## Entrepreneurship
+- https://whimsical.com/A5HmgSdoEhP1RzzzbM3whw
 
 ## Student Perks
 - https://education.github.com/pack
