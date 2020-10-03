@@ -116,8 +116,6 @@ SE Resume Tips
 - https://wusa.ca/services/feds-used-books
 - https://www.whatsmygpa.ca/
 
-- https://missing.csail.mit.edu/
-
 ### UWaterloo Related
 - https://uwaterloo.xyz/
     - https://schedule.uwaterloo.xyz/
@@ -134,6 +132,9 @@ SE Resume Tips
 
 ## Writing
 - https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx
+
+## Non UWaterloo Courses
+- https://missing.csail.mit.edu/
 
 ## 1A
 
