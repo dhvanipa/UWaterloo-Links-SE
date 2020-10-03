@@ -16,6 +16,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
     - [UWaterloo Related](#uwaterloo-related)
     - [Latex](#latex)
 - [Writing](#writing)
+- [Non UWaterloo Courses](#non-uwaterloo-courses)
 - [1A](#1a)
     - [CS 137](#cs-137---programming-principles)
     - [ECE 105](#ece-105---classical-mechanics)
