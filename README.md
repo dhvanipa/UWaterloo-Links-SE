@@ -78,6 +78,7 @@ SE Resume Tips
 - https://lib.uwaterloo.ca/web/index.php
     - https://lib.uwaterloo.ca/web/research-databases/browse?&a=all
 - http://reddit.com/r/uwaterloo
+- https://portal.uwaterloo.ca/
 
 ## Places at UWaterloo
 - https://uwaterloo.ca/problem-lab/
@@ -87,6 +88,8 @@ SE Resume Tips
 ## Co-op
 - https://uwaterloo.ca/co-operative-education/about-co-op/employment-statistics
 - https://uwaterloo.ca/co-operative-education/about-co-op/co-op-earnings
+- http://www.ceca.uwaterloo.ca/students/hiresessions.php
+- https://careerhub.uwaterloo.ca/
 - https://leetcode.com/
 - http://www.gowrikumar.com/interview/index.php
 - https://github.com/viraptor/reverse-interview
@@ -96,6 +99,8 @@ SE Resume Tips
 
 ## Entrepreneurship
 - https://whimsical.com/A5HmgSdoEhP1RzzzbM3whw
+- https://uwaterloo.ca/engineering/entrepreneurship/social-capital-fellows-program
+- https://uwaterloo.ca/conrad-school-entrepreneurship-business/undergraduate/bets
 
 ## Student Perks
 - https://education.github.com/pack
