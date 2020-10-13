@@ -81,6 +81,7 @@ SE Resume Tips
 - https://portal.uwaterloo.ca/
 
 ## Places at UWaterloo
+- https://wusa.ca/
 - https://uwaterloo.ca/problem-lab/
     - https://uwaterloo.ca/problem-lab/students/our-methods
 - https://concept.uwaterloo.ca/
@@ -99,6 +100,8 @@ SE Resume Tips
 
 ## Entrepreneurship
 - https://whimsical.com/A5HmgSdoEhP1RzzzbM3whw
+- https://beastar.uwaterloo.ca/
+- https://uwaterloo.ca/entrepreneurship/
 - https://uwaterloo.ca/engineering/entrepreneurship/social-capital-fellows-program
 - https://uwaterloo.ca/conrad-school-entrepreneurship-business/undergraduate/bets
 
