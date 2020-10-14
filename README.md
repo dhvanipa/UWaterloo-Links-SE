@@ -77,6 +77,7 @@ SE Resume Tips
 - https://uwaterloo.ca/map/
 - https://lib.uwaterloo.ca/web/index.php
     - https://lib.uwaterloo.ca/web/research-databases/browse?&a=all
+- https://subjectguides.uwaterloo.ca/
 - http://reddit.com/r/uwaterloo
 - https://portal.uwaterloo.ca/
 
@@ -100,6 +101,7 @@ SE Resume Tips
 
 ## Entrepreneurship
 - https://whimsical.com/A5HmgSdoEhP1RzzzbM3whw
+- https://subjectguides.uwaterloo.ca/entrepreneurs
 - https://beastar.uwaterloo.ca/
 - https://uwaterloo.ca/entrepreneurship/
 - https://uwaterloo.ca/engineering/entrepreneurship/social-capital-fellows-program
