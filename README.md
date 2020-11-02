@@ -89,6 +89,7 @@ SE Resume Tips
 - https://concept.uwaterloo.ca/
 
 ## Co-op
+- https://anchor.fm/uwadvantage
 - https://uwaterloo.ca/co-operative-education/about-co-op/employment-statistics
 - https://uwaterloo.ca/co-operative-education/about-co-op/co-op-earnings
 - http://www.ceca.uwaterloo.ca/students/hiresessions.php
