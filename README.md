@@ -121,7 +121,7 @@ SE Resume Tips
 ## Tools
 
 ### Courses
-- http://www.adm.uwaterloo.ca/infocour/CIR/SA/under.html
+- https://classes.uwaterloo.ca/under.html
 - http://uwcourse.atomala.com/
 - https://uwflow.com/
 - https://www.engsoc.uwaterloo.ca/resources/exam-bank/
