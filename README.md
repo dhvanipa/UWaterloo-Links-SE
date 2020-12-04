@@ -66,6 +66,7 @@ SE Resume Tips
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn.html
 
 ## General UWaterloo
+- https://uwaterloo.ca/watiam/
 - https://uwaterloo.ca/math-faculty-computing-facility/services/service-catalogue-teaching-linux/general-use-gpu-server
 - https://uwaterloo.ca/math-faculty-computing-facility/services/jupyter-notebook-server
 - https://englab.uwaterloo.ca/
