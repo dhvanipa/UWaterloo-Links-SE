@@ -61,6 +61,9 @@ SE vs CS
 SE Resume Tips
 - https://docs.google.com/document/d/1z1ykZitNA3mRGtZhqm0e_KefysPDeY3jg0_RzhUkmXg/edit?usp=sharing
 
+Sample SE Resumes:
+- https://drive.google.com/drive/folders/1GD16Fp_MalB1MP_p-Jn34cVJ-ZyjCf8X?usp=sharing
+
 ## High School to University
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn2018.html
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn.html
