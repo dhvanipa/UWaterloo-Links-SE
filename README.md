@@ -151,8 +151,6 @@ Sample SE Resumes:
 ## Non UWaterloo Courses
 - https://missing.csail.mit.edu/
 
-<details><summary>1A</summary>
-
 ## 1A
 
 ### CS 137 - Programming Principles
@@ -191,7 +189,6 @@ Sample SE Resumes:
 - https://www.mathportal.org/calculators/polynomials-solvers/polynomial-roots-calculator.php
 - https://www.dcode.fr/modular-exponentiation
 - https://cs.uwaterloo.ca/~cbruni/Math135Resources/index.php
-</details>
 
 ## 1B
 
