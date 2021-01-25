@@ -45,8 +45,8 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 ## Software Engineering Program
 - https://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering
 - https://sesoc.uwaterloo.ca/
-- https://uwaterloo.ca/software-engineering/current-undergraduate-students/other-useful-links
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/class-homepages
+- https://uwaterloo.ca/software-engineering/current-undergraduate-students/other-useful-links
 - https://uwaterloo.ca/software-engineering/advanced-technical-electives
 - https://engadvisor.uwaterloo.ca/advisor/
 
@@ -69,40 +69,38 @@ Sample SE Resumes:
 - https://www.math.uwaterloo.ca/~pkates/CTE/learning2learn.html
 
 ## General UWaterloo
+- http://reddit.com/r/uwaterloo
+- https://uwaterloo.ca/registrar/important-dates/calendar
+- https://git.uwaterloo.ca/
+- https://portal.uwaterloo.ca/
+- https://uwaterloo.ca/office-365/
 - https://idm.uwaterloo.ca/search/
+- https://uwaterloo.ca/library/services/printing-your-laptop
+- https://englab.uwaterloo.ca/
+- https://wiki.uwaterloo.ca/display/ISTKB
 - https://uwaterloo.ca/math-faculty-computing-facility/services/service-catalogue-teaching-linux/general-use-gpu-server
 - https://uwaterloo.ca/math-faculty-computing-facility/services/jupyter-notebook-server
-- https://englab.uwaterloo.ca/
 - https://uwaterloo.ca/information-systems-technology/services/file-sharing/sendit
-- https://wiki.uwaterloo.ca/display/ISTKB
-- https://uwaterloo.ca/office-365/
-- https://git.uwaterloo.ca/
-- https://uwaterloo.ca/library/services/printing-your-laptop
-- https://uwaterloo.ca/registrar/important-dates/calendar
 - https://uwaterloo.ca/map/
 - https://lib.uwaterloo.ca/web/index.php
     - https://lib.uwaterloo.ca/web/research-databases/browse?&a=all
-- https://subjectguides.uwaterloo.ca/
-- http://reddit.com/r/uwaterloo
-- https://portal.uwaterloo.ca/
+    - https://subjectguides.uwaterloo.ca/
 
 ## Places at UWaterloo
 - https://wusa.ca/
 - https://uwaterloo.ca/problem-lab/
-    - https://uwaterloo.ca/problem-lab/students/our-methods
 - https://concept.uwaterloo.ca/
 
 ## Co-op
-- https://anchor.fm/uwadvantage
+- https://uwaterloo.ca/co-operative-education/important-dates
 - https://uwaterloo.ca/co-operative-education/about-co-op/employment-statistics
 - https://uwaterloo.ca/co-operative-education/about-co-op/co-op-earnings
-- http://www.ceca.uwaterloo.ca/students/hiresessions.php
+- https://anchor.fm/uwadvantage
 - https://careerhub.uwaterloo.ca/
 - https://leetcode.com/
 - http://www.gowrikumar.com/interview/index.php
 - https://github.com/viraptor/reverse-interview
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/policies-procedures-guidelines/work-term-report-guidelines
-- https://uwaterloo.ca/co-operative-education/important-dates
 - https://contrary.substack.com/p/helpful-co-op-and-internship-resources
 
 ## Entrepreneurship
@@ -115,7 +113,7 @@ Sample SE Resumes:
 
 ## Student Perks
 - https://education.github.com/pack
-- https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011
+- https://www.amazon.ca/gp/student/signup/info/
 
 ## Online Learning
 - https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
