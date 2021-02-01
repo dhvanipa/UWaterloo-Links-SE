@@ -8,6 +8,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 - [General UWaterloo](#general-uwaterloo)
 - [Places at UWaterloo](#places-at-uwaterloo)
 - [Co-op](#co-op)
+- [Interviews](#interviews)
 - [Entrepreneurship](#entrepreneurship)
 - [Student Perks](#student-perks)
 - [Online Learning](#online-learning)
@@ -100,13 +101,12 @@ Sample SE Resumes:
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/policies-procedures-guidelines/work-term-report-guidelines
 - https://anchor.fm/uwadvantage
 
-## Interview
+## Interviews
 - https://leetcode.com/
 - https://github.com/TSiege/Tech-Interview-Cheat-Sheet
 - https://www.interviewcake.com
 - http://www.gowrikumar.com/interview/index.php
 - https://github.com/viraptor/reverse-interview
-
 
 ## Entrepreneurship
 - https://whimsical.com/A5HmgSdoEhP1RzzzbM3whw
