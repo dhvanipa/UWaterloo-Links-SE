@@ -95,13 +95,18 @@ Sample SE Resumes:
 - https://uwaterloo.ca/co-operative-education/important-dates
 - https://uwaterloo.ca/co-operative-education/about-co-op/employment-statistics
 - https://uwaterloo.ca/co-operative-education/about-co-op/co-op-earnings
-- https://anchor.fm/uwadvantage
+- https://contrary.substack.com/p/helpful-co-op-and-internship-resources
 - https://careerhub.uwaterloo.ca/
+- https://uwaterloo.ca/software-engineering/current-undergraduate-students/policies-procedures-guidelines/work-term-report-guidelines
+- https://anchor.fm/uwadvantage
+
+## Interview
 - https://leetcode.com/
+- https://github.com/TSiege/Tech-Interview-Cheat-Sheet
+- https://www.interviewcake.com
 - http://www.gowrikumar.com/interview/index.php
 - https://github.com/viraptor/reverse-interview
-- https://uwaterloo.ca/software-engineering/current-undergraduate-students/policies-procedures-guidelines/work-term-report-guidelines
-- https://contrary.substack.com/p/helpful-co-op-and-internship-resources
+
 
 ## Entrepreneurship
 - https://whimsical.com/A5HmgSdoEhP1RzzzbM3whw
