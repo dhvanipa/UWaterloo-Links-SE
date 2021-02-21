@@ -132,7 +132,7 @@ Sample SE Resumes:
 - http://uwcourse.atomala.com/
 - https://uwflow.com/
 - https://www.engsoc.uwaterloo.ca/resources/exam-bank/
-- https://mathsoc.uwaterloo.ca/university/exambank
+- https://services.mathsoc.uwaterloo.ca/university/exambank
 - https://wusa.ca/services/feds-used-books
 - https://www.whatsmygpa.ca/
 
