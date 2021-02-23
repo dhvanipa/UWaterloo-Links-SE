@@ -44,6 +44,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 
 
 ## Software Engineering Program
+- https://ece.uwaterloo.ca/~se_capstone/
 - https://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering
 - https://sesoc.uwaterloo.ca/
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/class-homepages
