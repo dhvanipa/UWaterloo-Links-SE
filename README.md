@@ -300,5 +300,5 @@ Sample SE Resumes:
 
 ### CS 341 - Algorithms
 - https://www.cs.usfca.edu/~galles/visualization/BFS.html
-- https://www.cs.usfca.edu/~galles/visualization/BFS.html
+- https://www.cs.usfca.edu/~galles/visualization/DFS.html
 - https://visualgo.net/en/dfsbfs
