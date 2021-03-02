@@ -41,7 +41,8 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
     - [CS 348](#cs-348---introduction-to-database-management)
     - [CS 240](#cs-240---data-structures-and-data-management)
     - [CS 247](#cs-247---software-engineering-principles)
-
+- [3A](#3a)
+    - [CS 341](#cs-341---algorithms)
 
 ## Software Engineering Program
 - https://ece.uwaterloo.ca/~se_capstone/
@@ -294,3 +295,10 @@ Sample SE Resumes:
 - https://google.github.io/styleguide/cppguide.html
 - https://en.cppreference.com/w/
 - http://www.cplusplus.com/
+
+## 3A
+
+### CS 341 - Algorithms
+- https://www.cs.usfca.edu/~galles/visualization/BFS.html
+- https://www.cs.usfca.edu/~galles/visualization/BFS.html
+- https://visualgo.net/en/dfsbfs
