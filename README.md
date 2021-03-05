@@ -123,6 +123,7 @@ Sample SE Resumes:
 - https://www.amazon.ca/gp/student/signup/info/
 
 ## Online Learning
+- https://chrome.google.com/webstore/detail/watch-and-learn/flkieefnhcdppcpgpokibmokkochikei
 - https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
 - https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
 - https://otter.ai/
