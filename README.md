@@ -92,7 +92,6 @@ Sample SE Resumes:
 ## Places at UWaterloo
 - https://wusa.ca/
 - https://uwaterloo.ca/problem-lab/
-- https://concept.uwaterloo.ca/
 
 ## Co-op
 - https://uwaterloo.ca/co-operative-education/important-dates
@@ -111,6 +110,9 @@ Sample SE Resumes:
 - https://github.com/viraptor/reverse-interview
 
 ## Entrepreneurship
+- https://www.communitech.ca
+- https://concept.uwaterloo.ca/
+- https://velocityincubator.com
 - https://whimsical.com/A5HmgSdoEhP1RzzzbM3whw
 - https://subjectguides.uwaterloo.ca/entrepreneurs
 - https://beastar.uwaterloo.ca/
