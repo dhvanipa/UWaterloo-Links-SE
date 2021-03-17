@@ -18,6 +18,8 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
     - [Latex](#latex)
 - [Writing](#writing)
 - [Non UWaterloo Courses](#non-uwaterloo-courses)
+- [General Engineering Courses](#general-engineering-courses)
+- [General Computer Science Courses](#general-computer-science-courses)
 - [1A](#1a)
     - [CS 137](#cs-137---programming-principles)
     - [ECE 105](#ece-105---classical-mechanics)
@@ -36,13 +38,18 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
     - [SE 212](#se-212---logic-and-computation)
     - [STAT 206](#stat-206---statistics-for-software-engineering)
 - [2B](#2b)
-    - [CS 370](#cs-370---numerical-computation)
     - [MATH 239](#math-239---introduction-to-combinatorics)
     - [CS 348](#cs-348---introduction-to-database-management)
     - [CS 240](#cs-240---data-structures-and-data-management)
     - [CS 247](#cs-247---software-engineering-principles)
 - [3A](#3a)
     - [CS 341](#cs-341---algorithms)
+    - [CS 349](#cs-349---user-interfaces)
+    - [MATH 213](#math-213---signals-systems-and-differential-equations)
+    - [SE 350](#se-350---operating-systems)
+- [Other Courses](#other-courses)
+    - [CS 370](#cs-370---numerical-computation)
+    - [CHE 161](#che-161---engineering-biology)
 
 ## Software Engineering Program
 - https://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering
@@ -160,13 +167,13 @@ Sample SE Resumes:
 ## Non UWaterloo Courses
 - https://missing.csail.mit.edu/
 
-## General Math Courses
+## General Engineering Courses
 - https://www.symbolab.com/
 - https://www.desmos.com/calculator
 - https://www.wolframalpha.com/
 - https://betterexplained.com
 
-## General CS Courses
+## General Computer Science Courses
 - https://repl.it/
 - https://app.diagrams.net/
 
