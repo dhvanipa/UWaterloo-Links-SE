@@ -47,6 +47,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
     - [CS 349](#cs-349---user-interfaces)
     - [MATH 213](#math-213---signals-systems-and-differential-equations)
     - [SE 350](#se-350---operating-systems)
+    - [SE 465](#se-465---software-testing-and-quality-assurance)
 - [Other Courses](#other-courses)
     - [CS 370](#cs-370---numerical-computation)
     - [CHE 161](#che-161---engineering-biology)
@@ -174,6 +175,7 @@ Sample SE Resumes:
 - https://betterexplained.com
 
 ## General Computer Science Courses
+- https://ohshitgit.com/
 - https://repl.it/
 - https://app.diagrams.net/
 
@@ -328,6 +330,20 @@ Sample SE Resumes:
 
 ### SE 350 - Operating Systems
 - https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+### SE 465 - Software Testing and Quality Assurance
+- https://junit.org/junit5/docs/current/user-guide/
+- https://valgrind.org/
+- https://clang.llvm.org/docs/AddressSanitizer.html
+- https://github.com/google/sanitizers/wiki/AddressSanitizerComparisonOfMemoryTools
+- https://llvm.org/docs/LibFuzzer.html
+- https://lcamtuf.coredump.cx/afl/
+- https://spotbugs.github.io/
+- https://pmd.github.io/
+- https://checkerframework.org/
+- https://errorprone.info/
+- https://pitest.org/
+- https://scan.coverity.com/
 
 ## Other Courses
 
