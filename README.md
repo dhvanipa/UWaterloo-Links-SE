@@ -34,7 +34,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
     - [CS 241](#cs-241---foundations-of-sequential-programs)
     - [ECE 222](#ece-222---digital-computers)
     - [SE 212](#se-212---logic-and-computation)
-    - [STAT 206](#stat-206----statistics-for-software-engineering)
+    - [STAT 206](#stat-206---statistics-for-software-engineering)
 - [2B](#2b)
     - [CS 370](#cs-370---numerical-computation)
     - [MATH 239](#math-239---introduction-to-combinatorics)
@@ -45,13 +45,13 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
     - [CS 341](#cs-341---algorithms)
 
 ## Software Engineering Program
-- https://ece.uwaterloo.ca/~se_capstone/
 - https://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering
 - https://sesoc.uwaterloo.ca/
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/class-homepages
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/other-useful-links
 - https://uwaterloo.ca/software-engineering/advanced-technical-electives
 - https://engadvisor.uwaterloo.ca/advisor/
+- https://ece.uwaterloo.ca/~se_capstone/
 
 ### Courtesy of Upper Years
 Class Profiles
@@ -81,7 +81,6 @@ Sample SE Resumes:
 - https://uwaterloo.ca/library/services/printing-your-laptop
 - https://englab.uwaterloo.ca/
 - https://wiki.uwaterloo.ca/display/ISTKB
-- https://uwaterloo.ca/math-faculty-computing-facility/services/service-catalogue-teaching-linux/general-use-gpu-server
 - https://uwaterloo.ca/math-faculty-computing-facility/services/jupyter-notebook-server
 - https://uwaterloo.ca/information-systems-technology/services/file-sharing/sendit
 - https://uwaterloo.ca/map/
@@ -161,13 +160,23 @@ Sample SE Resumes:
 ## Non UWaterloo Courses
 - https://missing.csail.mit.edu/
 
+## General Math Courses
+- https://www.symbolab.com/
+- https://www.desmos.com/calculator
+- https://www.wolframalpha.com/
+- https://betterexplained.com
+
+## General CS Courses
+- https://repl.it/
+- https://app.diagrams.net/
+
 ## 1A
 
 ### CS 137 - Programming Principles
+- https://student.cs.uwaterloo.ca/~cs137/index.shtml
 - https://www.bigocheatsheet.com/
 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 - http://www.pythontutor.com/visualize.html#mode=edit
-- https://repl.it/
 - https://cs.uwaterloo.ca/~cbruni/CS137Resources/index.php
 
 ### ECE 105 - Classical Mechanics
@@ -187,9 +196,6 @@ Sample SE Resumes:
 
 ### MATH 117 - Calculus 1 for Engineering
 - http://wabbitemu.org/
-- https://www.symbolab.com/
-- https://www.desmos.com/calculator
-- https://www.wolframalpha.com/
 - https://www.youtube.com/user/patrickJMT
 
 ### MATH 135 - Algebra for Honours Mathematics
@@ -203,6 +209,7 @@ Sample SE Resumes:
 ## 1B
 
 ### CS 138 - Introduction to Data Abstraction and Implementation
+- https://student.cs.uwaterloo.ca/~cs138/index.shtml
 - http://cpp.sh/
 
 ### MATH 119 - Calculus 2 for Engineering
@@ -230,6 +237,7 @@ Sample SE Resumes:
 ## 2A
 
 ### CS 241 - Foundations of Sequential Programs
+- https://student.cs.uwaterloo.ca/~cs241/
 - https://github.com/compiler-explorer/compiler-explorer
 - https://www.debuggex.com/
 - https://onlinestringtools.com/generate-string-from-regex
@@ -242,39 +250,32 @@ Sample SE Resumes:
 - https://www.mta.ca/pc-set/calculator/pc_calculate.html
 - https://www.mathcelebrity.com/cartprod.php
 
-### STAT 206  - Statistics for Software Engineering
+### STAT 206 - Statistics for Software Engineering
 - https://www.youtube.com/user/joshstarmer/playlists
 - https://www.youtube.com/user/jbstatistics/playlists
 - https://www.socscistatistics.com/tests/
 
 ## 2B
 
-### CS 370 - Numerical Computation
-- https://baseconvert.com/
-- https://scistatcalc.blogspot.com/2013/12/fft-calculator.html
-- https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
-- https://www.youtube.com/playlist?list=PL7HEDXv3wHPNCKVActVkD-OL1C7deqHGC
-
 ### MATH 239 - Introduction to Combinatorics
 - https://www.easycalculation.com/algebra/power-set.php
 - https://www.dcode.fr/combinations
 - https://bakkot.github.io/dfa-lib/regeq.html
-- https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Graph-Creator/
 - https://csacademy.com/app/graph_editor/
 - https://graphonline.ru/en/
 - https://networkx.github.io/documentation/stable/tutorial.html
     - https://networkx.github.io/documentation/stable/reference/algorithms/generated/networkx.algorithms.planarity.check_planarity.html
 
 ### CS 348 - Introduction to Database Management
-- https://dbis-uibk.github.io/relax/calc.htm
-- https://app.diagrams.net/
+- https://dbis-uibk.github.io/relax/landing
 - http://sqlfiddle.com/
 - https://www.youtube.com/user/techtud
-- http://www.ict.griffith.edu.au/~jw/normalization/ind.php
+- http://www.ict.griffith.edu.au/normalization_tools/normalization/ind.php
 - https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
 - http://www.cs.uleth.ca/~rice/latex/worksheet.pdf
 
 ### CS 240 - Data Structures and Data Management
+- https://student.cs.uwaterloo.ca/~cs240/
 - https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 - https://visualgo.net/en/heap
@@ -295,6 +296,7 @@ Sample SE Resumes:
 - https://oeis.org/
 
 ### CS 247 - Software Engineering Principles
+- https://student.cs.uwaterloo.ca/~cs247/
 - https://google.github.io/styleguide/cppguide.html
 - https://en.cppreference.com/w/
 - http://www.cplusplus.com/
@@ -302,6 +304,31 @@ Sample SE Resumes:
 ## 3A
 
 ### CS 341 - Algorithms
+- https://student.cs.uwaterloo.ca/~cs341/
 - https://www.cs.usfca.edu/~galles/visualization/BFS.html
 - https://www.cs.usfca.edu/~galles/visualization/DFS.html
 - https://visualgo.net/en/dfsbfs
+
+### CS 349 - User Interfaces
+- https://student.cs.uwaterloo.ca/~cs349/
+- https://docs.oracle.com/javase/8/javafx/api/
+
+### MATH 213 - Signals, Systems, and Differential Equations
+- https://www.youtube.com/watch?v=8QFwB0M7Ig8
+- https://www.youtube.com/watch?v=TLWE388JWGs
+- https://www.youtube.com/watch?v=QmcoPYUfbJ8
+- https://www.youtube.com/watch?v=acAw5WGtzuk
+
+### SE 350 - Operating Systems
+- https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+## Other Courses
+
+### CS 370 - Numerical Computation
+- https://baseconvert.com/
+- https://scistatcalc.blogspot.com/2013/12/fft-calculator.html
+- https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+- https://www.youtube.com/playlist?list=PL7HEDXv3wHPNCKVActVkD-OL1C7deqHGC
+
+### CHE 161 - Engineering Biology
+- https://brenda-enzymes.org/
