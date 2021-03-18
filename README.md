@@ -314,6 +314,8 @@ Sample SE Resumes:
 
 ### CS 341 - Algorithms
 - https://student.cs.uwaterloo.ca/~cs341/
+- https://www.youtube.com/playlist?list=PL9xmBV_5YoZObEi3Hf6lmyW-CBfs7nkOV
+- https://www.youtube.com/playlist?list=PL9xmBV_5YoZO-Y-H3xIC9DGSfVYJng9Yw
 - https://www.cs.usfca.edu/~galles/visualization/BFS.html
 - https://www.cs.usfca.edu/~galles/visualization/DFS.html
 - https://visualgo.net/en/dfsbfs
