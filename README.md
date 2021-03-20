@@ -357,3 +357,4 @@ Sample SE Resumes:
 
 ### CHE 161 - Engineering Biology
 - https://brenda-enzymes.org/
+- https://www.kegg.jp/
