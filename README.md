@@ -332,6 +332,9 @@ Sample SE Resumes:
 
 ### SE 350 - Operating Systems
 - https://pages.cs.wisc.edu/~remzi/OSTEP/
+- https://nicomedes.assistedcoding.eu/#/app/os/disk_scheduling
+- https://nicomedes.assistedcoding.eu/#/app/os/page_replacement
+- https://nicomedes.assistedcoding.eu/#/app/os/process_scheduling
 
 ### SE 465 - Software Testing and Quality Assurance
 - https://junit.org/junit5/docs/current/user-guide/
