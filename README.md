@@ -323,6 +323,8 @@ Sample SE Resumes:
 ### CS 349 - User Interfaces
 - https://student.cs.uwaterloo.ca/~cs349/
 - https://docs.oracle.com/javase/8/javafx/api/
+- https://developer.apple.com/design/human-interface-guidelines/
+- https://developer.android.com/design
 - https://lawsofux.com/
 - https://color.adobe.com/
 - https://coolors.co/
