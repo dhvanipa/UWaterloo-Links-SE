@@ -323,6 +323,10 @@ Sample SE Resumes:
 ### CS 349 - User Interfaces
 - https://student.cs.uwaterloo.ca/~cs349/
 - https://docs.oracle.com/javase/8/javafx/api/
+- https://lawsofux.com/
+- https://color.adobe.com/
+- https://coolors.co/
+- https://fonts.google.com/
 
 ### MATH 213 - Signals, Systems, and Differential Equations
 - https://www.youtube.com/watch?v=8QFwB0M7Ig8
