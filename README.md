@@ -146,6 +146,7 @@ Sample SE Resumes:
 - https://www.engsoc.uwaterloo.ca/resources/exam-bank/
 - https://services.mathsoc.uwaterloo.ca/university/exambank
 - https://wusa.ca/services/feds-used-books
+- https://engug.uwaterloo.ca/
 - https://www.whatsmygpa.ca/
 
 ### UWaterloo Related
