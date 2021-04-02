@@ -332,6 +332,7 @@ Sample SE Resumes:
 - https://fonts.google.com/
 
 ### MATH 213 - Signals, Systems, and Differential Equations
+- https://commons.wikimedia.org/wiki/Category:Fourier_series_animations
 - https://www.youtube.com/watch?v=8QFwB0M7Ig8
 - https://www.youtube.com/watch?v=TLWE388JWGs
 - https://www.youtube.com/watch?v=QmcoPYUfbJ8
