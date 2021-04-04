@@ -86,6 +86,7 @@ Sample SE Resumes:
 - https://portal.uwaterloo.ca/
 - https://uwaterloo.ca/office-365/
 - https://idm.uwaterloo.ca/search/
+- https://evaluate.uwaterloo.ca/
 - https://uwaterloo.ca/library/services/printing-your-laptop
 - https://englab.uwaterloo.ca/
 - https://wiki.uwaterloo.ca/display/ISTKB
