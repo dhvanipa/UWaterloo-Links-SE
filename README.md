@@ -343,6 +343,13 @@ Sample SE Resumes:
 - https://nicomedes.assistedcoding.eu/#/app/os/disk_scheduling
 - https://nicomedes.assistedcoding.eu/#/app/os/page_replacement
 - https://nicomedes.assistedcoding.eu/#/app/os/process_scheduling
+- https://cloud.google.com/containers
+- https://www.docker.com/
+- https://sel4.systems/
+- https://www.qubes-os.org/
+- https://cve.mitre.org/index.html
+- https://nordpass.com/most-common-passwords-list/
+- https://haveibeenpwned.com/
 
 ### SE 465 - Software Testing and Quality Assurance
 - https://junit.org/junit5/docs/current/user-guide/
