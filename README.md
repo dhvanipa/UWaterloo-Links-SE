@@ -177,6 +177,7 @@ Sample SE Resumes:
 - https://betterexplained.com
 
 ## General Computer Science Courses
+- http://marmoset.student.cs.uwaterloo.ca/
 - https://ohshitgit.com/
 - https://repl.it/
 - https://app.diagrams.net/
@@ -258,6 +259,9 @@ Sample SE Resumes:
 - https://www.youtube.com/watch?v=yKPD_UkbgXo&list=PLsFENPUZBqiprGoEWrpexJPlPjmfPCtzM
 
 ### SE 212 - Logic and Computation
+- https://student.cs.uwaterloo.ca/~se212/
+- https://student.cs.uwaterloo.ca/~se212/george/ask-george/
+- https://boole.shazz.me
 - https://www.mta.ca/pc-set/calculator/pc_calculate.html
 - https://www.mathcelebrity.com/cartprod.php
 
