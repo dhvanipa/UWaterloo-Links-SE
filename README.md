@@ -102,6 +102,7 @@ Sample SE Resumes:
 - https://uwaterloo.ca/problem-lab/
 
 ## Co-op
+- http://waterlooworks.uwaterloo.ca/
 - https://uwaterloo.ca/co-operative-education/important-dates
 - https://uwaterloo.ca/co-operative-education/about-co-op/employment-statistics
 - https://uwaterloo.ca/co-operative-education/about-co-op/co-op-earnings
@@ -170,6 +171,13 @@ Sample SE Resumes:
 ## Non UWaterloo Courses
 - https://missing.csail.mit.edu/
 
+## General Courses
+- https://learn.uwaterloo.ca/
+- https://piazza.com/
+- https://app.crowdmark.com/
+- https://markus.student.cs.uwaterloo.ca/
+- http://marmoset.student.cs.uwaterloo.ca/
+
 ## General Engineering Courses
 - https://www.symbolab.com/
 - https://www.desmos.com/calculator
@@ -177,7 +185,6 @@ Sample SE Resumes:
 - https://betterexplained.com
 
 ## General Computer Science Courses
-- http://marmoset.student.cs.uwaterloo.ca/
 - https://ohshitgit.com/
 - https://repl.it/
 - https://app.diagrams.net/
