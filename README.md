@@ -365,6 +365,7 @@ Sample SE Resumes:
 - https://haveibeenpwned.com/
 
 ### SE 465 - Software Testing and Quality Assurance
+- https://cs.gmu.edu:8443/offutt/coverage/LogicCoverage
 - https://junit.org/junit5/docs/current/user-guide/
 - https://valgrind.org/
 - https://clang.llvm.org/docs/AddressSanitizer.html
