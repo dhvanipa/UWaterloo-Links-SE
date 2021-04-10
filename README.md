@@ -377,6 +377,7 @@ Sample SE Resumes:
 - https://errorprone.info/
 - https://pitest.org/
 - https://scan.coverity.com/
+- https://site.mockito.org/
 
 ## Other Courses
 
