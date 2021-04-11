@@ -343,6 +343,8 @@ Sample SE Resumes:
 - https://coolors.co/
 - https://fonts.google.com/
 - https://wave.webaim.org/
+- http://courses.csail.mit.edu/6.831/2009/handouts/ac18-predictive-evaluation/klm.shtml
+- http://simonwallner.at/ext/fitts/
 
 ### MATH 213 - Signals, Systems, and Differential Equations
 - https://commons.wikimedia.org/wiki/Category:Fourier_series_animations
