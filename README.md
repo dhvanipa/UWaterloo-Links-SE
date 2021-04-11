@@ -393,4 +393,8 @@ Sample SE Resumes:
 ### CHE 161 - Engineering Biology
 - https://brenda-enzymes.org/
 - https://www.kegg.jp/
+- https://www.labxchange.org/library
+- https://www.addgene.org/
+- https://www.ncbi.nlm.nih.gov/
+- https://molbiotools.com/restrictionanalyzer.html
 - https://skaminsky115.github.io/nac/DNA-mRNA-Protein_Converter.html
