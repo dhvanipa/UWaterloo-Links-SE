@@ -286,7 +286,7 @@ Sample SE Resumes:
 - https://csacademy.com/app/graph_editor/
 - https://graphonline.ru/en/
 - https://networkx.github.io/documentation/stable/tutorial.html
-    - https://networkx.github.io/documentation/stable/reference/algorithms/generated/networkx.algorithms.planarity.check_planarity.html
+- https://networkx.github.io/documentation/stable/reference/algorithms/generated/networkx.algorithms.planarity.check_planarity.html
 
 ### CS 348 - Introduction to Database Management
 - https://dbis-uibk.github.io/relax/landing
@@ -332,6 +332,8 @@ Sample SE Resumes:
 - https://www.cs.usfca.edu/~galles/visualization/BFS.html
 - https://www.cs.usfca.edu/~galles/visualization/DFS.html
 - https://visualgo.net/en/dfsbfs
+- https://www.youtube.com/playlist?list=PLDV1Zeh2NRsBI1C-mR6ZhHTyfoEJWlxvq
+- https://www.cs.usfca.edu/~galles/JavascriptVisual/DisjointSets.html
 
 ### CS 349 - User Interfaces
 - https://student.cs.uwaterloo.ca/~cs349/
