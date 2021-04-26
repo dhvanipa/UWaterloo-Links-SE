@@ -132,6 +132,7 @@ Sample SE Resumes:
 ## Student Perks
 - https://education.github.com/pack
 - https://www.amazon.ca/gp/student/signup/info/
+- https://uwaterloo.ca/information-systems-technology/services
 
 ## Online Learning
 - https://chrome.google.com/webstore/detail/watch-and-learn/flkieefnhcdppcpgpokibmokkochikei
