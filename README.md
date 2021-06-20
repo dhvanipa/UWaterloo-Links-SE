@@ -146,6 +146,7 @@ Sample SE Resumes:
 - https://classes.uwaterloo.ca/under.html
 - http://uwcourse.atomala.com/
 - https://uwflow.com/
+- https://www.reserves.uwaterloo.ca/ares/
 - https://www.engsoc.uwaterloo.ca/resources/exam-bank/
 - https://services.mathsoc.uwaterloo.ca/university/exambank
 - https://wusa.ca/services/feds-used-books
