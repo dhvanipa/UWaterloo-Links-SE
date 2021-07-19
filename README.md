@@ -63,8 +63,9 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 
 ### Courtesy of Upper Years
 Class Profiles
-- https://uw-se-2020-class-profile.github.io/profile.pdf
-- https://classprofile.andyzhang.net/
+- https://sexxis.github.io/classprofile/ (2021)
+- https://uw-se-2020-class-profile.github.io/profile.pdf (2020)
+- https://classprofile.andyzhang.net/ (2018)
 
 SE vs CS
 - https://docs.google.com/document/d/1y1FvwCNqaUGTm74dMMqegnWqJMDpVZZZcNVLsZS4hoM/edit?usp=sharing
