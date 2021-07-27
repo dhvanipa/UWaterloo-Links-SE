@@ -188,6 +188,7 @@ Sample SE Resumes:
 - https://betterexplained.com
 
 ## General Computer Science Courses
+- https://explainshell.com
 - https://ohshitgit.com/
 - https://repl.it/
 - https://app.diagrams.net/
