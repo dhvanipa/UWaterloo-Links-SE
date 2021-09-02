@@ -90,7 +90,7 @@ Sample SE Resumes:
 - https://evaluate.uwaterloo.ca/
 - https://uwaterloo.ca/library/services/printing-your-laptop
 - https://englab.uwaterloo.ca/
-- https://wiki.uwaterloo.ca/display/ISTKB
+- https://uwaterloo.atlassian.net/wiki/spaces/ISTKB/overview
 - https://uwaterloo.ca/math-faculty-computing-facility/services/jupyter-notebook-server
 - https://uwaterloo.ca/information-systems-technology/services/file-sharing/sendit
 - https://uwaterloo.ca/map/
@@ -133,7 +133,9 @@ Sample SE Resumes:
 ## Student Perks
 - https://education.github.com/pack
 - https://www.amazon.ca/gp/student/signup/info/
+- https://www.spotify.com/ca-en/student/
 - https://uwaterloo.ca/information-systems-technology/services
+- https://www.myunidays.com/CA/en-CA
 
 ## Online Learning
 - https://chrome.google.com/webstore/detail/watch-and-learn/flkieefnhcdppcpgpokibmokkochikei
@@ -156,7 +158,6 @@ Sample SE Resumes:
 
 ### UWaterloo Related
 - https://uwaterloo.xyz/
-    - https://schedule.uwaterloo.xyz/
 - https://play.google.com/store/apps/details?id=com.lucky.watisrain&hl=en_CA
 - https://www.zijianshao.com/
     - https://chrome.google.com/webstore/detail/waterlooworks-azure/peeaakkcmdoeljddgdkcailflcballmm?hl=en
@@ -188,6 +189,7 @@ Sample SE Resumes:
 - https://betterexplained.com
 
 ## General Computer Science Courses
+- https://uwaterloo.ca/math-faculty-computing-facility/accessing-student-linux-servers
 - https://explainshell.com
 - https://ohshitgit.com/
 - https://repl.it/
