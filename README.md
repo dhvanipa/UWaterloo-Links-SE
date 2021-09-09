@@ -395,6 +395,7 @@ Sample SE Resumes:
 ### CS 343 - Concurrent and Parallel Programming
 - https://student.cs.uwaterloo.ca/~cs343/
 - https://www.tiobe.com/tiobe-index/
+- https://plg.uwaterloo.ca/usystem/uC++.html
 
 ## Other Courses
 
