@@ -390,6 +390,12 @@ Sample SE Resumes:
 - https://scan.coverity.com/
 - https://site.mockito.org/
 
+## 3B
+
+### CS 343 - Concurrent and Parallel Programming
+- https://student.cs.uwaterloo.ca/~cs343/
+- https://www.tiobe.com/tiobe-index/
+
 ## Other Courses
 
 ### CS 370 - Numerical Computation
