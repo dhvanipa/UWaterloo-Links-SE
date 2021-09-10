@@ -397,6 +397,9 @@ Sample SE Resumes:
 - https://www.tiobe.com/tiobe-index/
 - https://plg.uwaterloo.ca/usystem/uC++.html
 
+### SE 464 - Software Design and Architectures
+- http://tomasp.net/blog/2019/software-engineering/
+
 ## Other Courses
 
 ### CS 370 - Numerical Computation
