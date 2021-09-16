@@ -402,6 +402,10 @@ Sample SE Resumes:
 
 ## Other Courses
 
+### CS 451 - Data-Intensive Distributed Computing
+- https://student.cs.uwaterloo.ca/~cs451/index.html
+- https://colin-scott.github.io/personal_website/research/interactive_latency.html
+
 ### CS 370 - Numerical Computation
 - https://baseconvert.com/
 - https://scistatcalc.blogspot.com/2013/12/fft-calculator.html
