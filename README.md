@@ -216,6 +216,7 @@ Sample SE Resumes:
 - https://www.edumedia-sciences.com/en/media/269-spherical-coordinates
 - http://www.ilectureonline.com/lectures/subject/PHYSICS/1
 - http://web.mst.edu/~gbert/JAVA/uncertainty.HTML#operation
+- [Textbook Solutions](https://www.dropbox.com/s/jqctogyvrackwpc/solution_manual_for_physics_for_scientists_and_engineers_2nd_edition_by_hawkes%20(1)%202.zip?dl=0&file_subpath=%2Fsolution_manual_for_physics_for_scientists_and_engineers_2nd_edition_by_hawkes+(1))
 
 ### MATH 115 - Linear Algebra for Engineering
 - https://matrixcalc.org/en/
@@ -234,6 +235,7 @@ Sample SE Resumes:
 - https://www.mathportal.org/calculators/polynomials-solvers/polynomial-roots-calculator.php
 - https://www.dcode.fr/modular-exponentiation
 - https://cs.uwaterloo.ca/~cbruni/Math135Resources/index.php
+- [Practice problems, old midterms + solutions](https://agony.retrocraft.ca/#math-135-f2020-algebra-for-honours-mathematics)
 
 ## 1B
 
