@@ -406,6 +406,9 @@ Sample SE Resumes:
 ### SE 464 - Software Design and Architectures
 - http://tomasp.net/blog/2019/software-engineering/
 
+### SE 380 - Introduction to Feedback Control
+- https://www.youtube.com/playlist?list=PLmK1EnKxphikZ4mmCz2NccSnHZb7v1wV-
+
 ## Other Courses
 
 ### CS 451 - Data-Intensive Distributed Computing
