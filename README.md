@@ -403,6 +403,12 @@ Sample SE Resumes:
 - https://www.tiobe.com/tiobe-index/
 - https://plg.uwaterloo.ca/usystem/uC++.html
 
+### ECE 358 - Computer Networks
+- https://www.hootsuite.com/resources/digital-trends
+- https://isp.today/
+- http://internet-map.net/
+- http://www.traceroute.org/
+
 ### SE 464 - Software Design and Architectures
 - http://tomasp.net/blog/2019/software-engineering/
 
