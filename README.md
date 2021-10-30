@@ -408,6 +408,7 @@ Sample SE Resumes:
 - https://isp.today/
 - http://internet-map.net/
 - http://www.traceroute.org/
+- https://asecuritysite.com/comms/mod_div?a=10011&b=11
 
 ### SE 464 - Software Design and Architectures
 - http://tomasp.net/blog/2019/software-engineering/
