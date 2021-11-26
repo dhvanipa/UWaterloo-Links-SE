@@ -421,8 +421,11 @@ Sample SE Resumes:
 
 ### CS 451 - Data-Intensive Distributed Computing
 - https://student.cs.uwaterloo.ca/~cs451/index.html
+- https://hadoop.apache.org/
+- https://spark.apache.org/
 - https://colin-scott.github.io/personal_website/research/interactive_latency.html
 - https://www.csauthors.net/distance
+- https://www.scala-lang.org/
 
 ### CS 370 - Numerical Computation
 - https://baseconvert.com/
