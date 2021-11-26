@@ -108,6 +108,7 @@ Sample SE Resumes:
 - https://uwaterloo.ca/co-operative-education/about-co-op/employment-statistics
 - https://uwaterloo.ca/co-operative-education/about-co-op/co-op-earnings
 - https://www.levels.fyi/
+- https://stephenholiday.com/Unofficial-Waterloo-USA-Intern-Guide/
 - https://contrary.substack.com/p/helpful-co-op-and-internship-resources
 - https://careerhub.uwaterloo.ca/
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/policies-procedures-guidelines/work-term-report-guidelines
