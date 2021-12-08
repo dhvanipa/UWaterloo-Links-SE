@@ -416,6 +416,7 @@ Sample SE Resumes:
 
 ### SE 380 - Introduction to Feedback Control
 - https://www.youtube.com/playlist?list=PLmK1EnKxphikZ4mmCz2NccSnHZb7v1wV-
+- https://www.youtube.com/user/ControlLectures/playlists
 
 ## Other Courses
 
