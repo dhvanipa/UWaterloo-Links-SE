@@ -415,6 +415,7 @@ Sample SE Resumes:
 - http://tomasp.net/blog/2019/software-engineering/
 
 ### SE 380 - Introduction to Feedback Control
+- https://lpsa.swarthmore.edu/Root_Locus/RLDraw.html
 - https://www.youtube.com/playlist?list=PLmK1EnKxphikZ4mmCz2NccSnHZb7v1wV-
 - https://www.youtube.com/user/ControlLectures/playlists
 
