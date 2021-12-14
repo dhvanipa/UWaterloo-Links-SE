@@ -48,7 +48,13 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
     - [MATH 213](#math-213---signals-systems-and-differential-equations)
     - [SE 350](#se-350---operating-systems)
     - [SE 465](#se-465---software-testing-and-quality-assurance)
+- [3B](#3b)
+    - [CS 343](#cs-343---concurrent-and-parallel-programming)
+    - [ECE 358](#ece-358---computer-networks)
+    - [SE 464](#se-464---software-design-and-architectures)
+    - [SE 380](#se-380---introduction-to-feedback-control)
 - [Other Courses](#other-courses)
+    - [CS 451](#cs-451---data-intensive-distributed-computing)
     - [CS 370](#cs-370---numerical-computation)
     - [CHE 161](#che-161---engineering-biology)
 
