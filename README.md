@@ -8,6 +8,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 - [General UWaterloo](#general-uwaterloo)
 - [Places at UWaterloo](#places-at-uwaterloo)
 - [Co-op](#co-op)
+    - [Co-op in the US](#co-op-in-the-us)
 - [Interviews](#interviews)
 - [Entrepreneurship](#entrepreneurship)
 - [Student Perks](#student-perks)
