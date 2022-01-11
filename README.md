@@ -265,6 +265,7 @@ Sample SE Resumes:
 - [Firas Mansour's Lectures](https://www.youtube.com/user/grreenflag/videos)
 - http://www.ilectureonline.com/lectures/subject/PHYSICS/5
 - https://www.youtube.com/user/lasseviren1/playlists
+- [Brenda Lee's Lecture Videos](https://uwaterloo.ca/scholar/by2lee/ece-106)
 
 ### ECE 124 - Digital Circuits and Systems
 - https://web.stanford.edu/class/cs103/tools/truth-table-tool/
