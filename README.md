@@ -69,6 +69,9 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 - https://ece.uwaterloo.ca/~se_capstone/
 
 ### Courtesy of Upper Years
+From Faculty
+- Ergonomics (https://docs.google.com/presentation/d/1nWG1panxqaZ2HBKF3mpB-IQPblP6fce2PvnRaBuS4BQ/edit)
+
 Class Profiles
 - https://se-webring.xyz/
 - https://sexxis.github.io/classprofile/ (2021)
