@@ -114,11 +114,12 @@ Sample SE Resumes:
 - https://uwaterloo.ca/problem-lab/
 
 ## Co-op
+- [Crowdsourced salary info](https://docs.google.com/spreadsheets/d/1kMBu1_TONgzZ0Ysz3d2OYiu1O8kDftZxT3INxrz8hII/edit#gid=0)
+- https://www.levels.fyi/
 - http://waterlooworks.uwaterloo.ca/
 - https://uwaterloo.ca/co-operative-education/important-dates
 - https://uwaterloo.ca/co-operative-education/about-co-op/employment-statistics
 - https://uwaterloo.ca/co-operative-education/about-co-op/co-op-earnings
-- https://www.levels.fyi/
 - https://contrary.substack.com/p/helpful-co-op-and-internship-resources
 - https://careerhub.uwaterloo.ca/
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/policies-procedures-guidelines/work-term-report-guidelines
