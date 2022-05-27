@@ -66,7 +66,6 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/other-useful-links
 - https://uwaterloo.ca/software-engineering/advanced-technical-electives
 - https://engadvisor.uwaterloo.ca/advisor/
-- https://ece.uwaterloo.ca/~se_capstone/
 
 ### Courtesy of Upper Years
 From Faculty
@@ -436,6 +435,16 @@ Sample SE Resumes:
 - https://lpsa.swarthmore.edu/Root_Locus/RLDraw.html
 - https://www.youtube.com/playlist?list=PLmK1EnKxphikZ4mmCz2NccSnHZb7v1wV-
 - https://www.youtube.com/user/ControlLectures/playlists
+
+## 4A
+
+### SE 463 - Software Requirements Specification and Analysis
+- https://student.cs.uwaterloo.ca/~se463/
+- https://alloytools.org/
+- https://mermaid-js.github.io/mermaid/#/
+
+### SE 490 - Design Project 1
+- https://ece.uwaterloo.ca/~se_capstone/
 
 ## Other Courses
 
