@@ -462,6 +462,10 @@ Sample SE Resumes:
 - https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
 - https://www.youtube.com/playlist?list=PL7HEDXv3wHPNCKVActVkD-OL1C7deqHGC
 
+### ECE 458 - Computer Security
+- https://www.sagemath.org/
+- https://www.pelock.com/products/hash-calculator
+
 ### CHE 161 - Engineering Biology
 - https://brenda-enzymes.org/
 - https://www.kegg.jp/
