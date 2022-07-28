@@ -441,6 +441,7 @@ Sample SE Resumes:
 ### SE 463 - Software Requirements Specification and Analysis
 - https://student.cs.uwaterloo.ca/~se463/
 - https://alloytools.org/
+- https://alloy.readthedocs.io/en/latest/index.html
 - https://mermaid-js.github.io/mermaid/#/
 
 ### SE 490 - Design Project 1
