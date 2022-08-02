@@ -443,6 +443,7 @@ Sample SE Resumes:
 - https://alloytools.org/
 - https://alloy.readthedocs.io/en/latest/index.html
 - https://mermaid-js.github.io/mermaid/#/
+- https://www.youtube.com/playlist?list=PLUoebdZqEHTxpGCwKrb82cIvHNoNaBb4R
 
 ### SE 490 - Design Project 1
 - https://ece.uwaterloo.ca/~se_capstone/
