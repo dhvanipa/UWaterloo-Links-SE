@@ -169,6 +169,7 @@ Sample SE Resumes:
 - https://classes.uwaterloo.ca/under.html
 - http://uwcourse.atomala.com/
 - https://uwflow.com/
+- https://odyssey.uwaterloo.ca/teaching/schedule
 - https://www.reserves.uwaterloo.ca/ares/
 - https://www.engsoc.uwaterloo.ca/resources/exam-bank/
 - https://services.mathsoc.uwaterloo.ca/university/exambank
