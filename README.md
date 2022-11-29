@@ -109,6 +109,7 @@ Sample SE Resumes:
     - https://subjectguides.uwaterloo.ca/
 
 ## Places at UWaterloo
+- Socratica (https://www.socrati.ca/)
 - https://wusa.ca/
 - https://uwaterloo.ca/problem-lab/
 
@@ -140,9 +141,10 @@ Sample SE Resumes:
 
 
 ## Entrepreneurship
-- https://www.communitech.ca
+- https://linktr.ee/uwstartups
 - https://concept.uwaterloo.ca/
 - https://velocityincubator.com
+- https://www.communitech.ca
 - https://whimsical.com/A5HmgSdoEhP1RzzzbM3whw
 - https://subjectguides.uwaterloo.ca/entrepreneurs
 - https://beastar.uwaterloo.ca/
