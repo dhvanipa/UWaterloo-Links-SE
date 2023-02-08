@@ -62,6 +62,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 ## Software Engineering Program
 - https://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering
 - https://sesoc.uwaterloo.ca/
+- - https://uwaterloo.ca/software-engineering/undergraduate-students/current-undergraduate-students/enrichment-opportunities
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/class-homepages
 - https://uwaterloo.ca/software-engineering/current-undergraduate-students/other-useful-links
 - https://uwaterloo.ca/software-engineering/advanced-technical-electives
