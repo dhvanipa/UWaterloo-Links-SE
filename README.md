@@ -10,6 +10,7 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
 - [Co-op](#co-op)
     - [Co-op in the US](#co-op-in-the-us)
 - [Interviews](#interviews)
+- [Graduation](#graduation)
 - [Entrepreneurship](#entrepreneurship)
 - [Student Perks](#student-perks)
 - [Online Learning](#online-learning)
@@ -54,6 +55,11 @@ A list of links which I've found useful during my time at UWaterloo studying Sof
     - [ECE 358](#ece-358---computer-networks)
     - [SE 464](#se-464---software-design-and-architectures)
     - [SE 380](#se-380---introduction-to-feedback-control)
+- [4A](#4a)
+    - [SE 463](#se-463---software-requirements-specification-and-analysis)
+    - [SE 490](#se-490---design-project-1)
+- [4B](#4b)
+    - [SE 491](#se-491---design-project-2)
 - [Other Courses](#other-courses)
     - [CS 451](#cs-451---data-intensive-distributed-computing)
     - [CS 370](#cs-370---numerical-computation)
@@ -141,6 +147,9 @@ Sample SE Resumes:
 - http://www.gowrikumar.com/interview/index.php
 - https://github.com/viraptor/reverse-interview
 
+## Graduation
+- https://uwaterloo.ca/registrar/graduation-and-convocation
+- https://uwaterloo.ca/convocation/ceremonies/ceremony-dates-and-times
 
 ## Entrepreneurship
 - https://linktr.ee/uwstartups
@@ -452,6 +461,13 @@ Sample SE Resumes:
 
 ### SE 490 - Design Project 1
 - https://ece.uwaterloo.ca/~se_capstone/
+
+## 4B
+
+### SE 491 - Design Project 2
+- https://ece.uwaterloo.ca/~se_capstone/
+- https://uwaterloo.ca/capstone-design/
+- https://uwaterloo.ca/print-and-retail-solutions/about/people/w-print/academic-poster-printing
 
 ## Other Courses
 
