@@ -191,7 +191,6 @@ Sample SE Resumes:
 - https://www.whatsmygpa.ca/
 
 ### UWaterloo Related
-- https://uwaterloo.xyz/
 - https://play.google.com/store/apps/details?id=com.lucky.watisrain&hl=en_CA
 - https://www.zijianshao.com/
     - https://chrome.google.com/webstore/detail/waterlooworks-azure/peeaakkcmdoeljddgdkcailflcballmm?hl=en
