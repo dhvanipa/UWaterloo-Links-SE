@@ -410,6 +410,7 @@ Sample SE Resumes:
 - https://cve.mitre.org/index.html
 - https://nordpass.com/most-common-passwords-list/
 - https://haveibeenpwned.com/
+- [simcard0000's se350-examples](https://github.com/simcard0000/se350-examples)
 
 ### SE 465 - Software Testing and Quality Assurance
 - https://cs.gmu.edu:8443/offutt/coverage/LogicCoverage
